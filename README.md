@@ -6,3 +6,5 @@ The books for learning are :
 
 The code in book 1 will base on **MASM**.  
 The code in book 2 will base on **NASM**.
+
+All pictures are from the books.
